@@ -1,4 +1,4 @@
---postgresql CDM Foreign Key Constraints for OMOP Common Data Model 5.4
+--postgresql CDM Foreign Key Constraints for OMOP Common Data Model 6.0
 
 ALTER TABLE cdm6.PERSON ADD CONSTRAINT fpk_PERSON_gender_concept_id FOREIGN KEY (gender_concept_id) REFERENCES cdm6.CONCEPT (CONCEPT_ID);
 
