@@ -1,5 +1,15 @@
 -- A Demo to showcase various tables on omop cdm using synthetic data
 
+/* Link 
+
+https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=google_trends&page=dataset&project=omopdatabase&ws=!1m4!1m3!3m2!1sbigquery-public-data!2sgoogle_trends
+
+*/
+
+
+
+
+
 
 /* Concepts are referred by concept_id. All details are in CONCEPT table */
 
